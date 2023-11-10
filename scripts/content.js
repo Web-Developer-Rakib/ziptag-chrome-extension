@@ -43,6 +43,10 @@ function adduuidFieldAndButton(form) {
         password.value = data.password;
         confirmPassword.value = data.confirmPassword;
       } else {
+        userName.value = "";
+        email.value = "";
+        password.value = "";
+        confirmPassword.value = "";
         alert("Invalid uuid!");
       }
     });
