@@ -14,7 +14,7 @@ const confirmPassword = document.getElementById("ap_password_check");
 // Create a random object with field properties
 const data = {
   userName: "Rakibul Hasan",
-  email: "hrakib395@gmail.com",
+  email: "hrakib935@gmail.com",
   password: "randomPassword#123",
   confirmPassword: "randomPassword#123",
 };
